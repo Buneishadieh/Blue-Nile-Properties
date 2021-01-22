@@ -46,7 +46,7 @@ This web page was made with:
 * wagabi98@gmail.com
 * libancw404@gmail.com
 * koechkipz03@gmail.com
-* 
+* buneishadrack5@gmail.com
 
 ## License and Copyright information.
 * all rights reserved to the users.
